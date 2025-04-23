@@ -73,6 +73,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     .btn.btn-primary:hover {
       border-color: #1f425c;
       background: #1f425c; }
+
   .btn.btn-outline-white {
     border: 2px solid #ffffff; }
     .btn.btn-outline-white:hover {
@@ -1384,3 +1385,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       content: "\f095"; }
     .site-footer ul.quick-info li.address:before {
       content: "\e8b4"; }
+
+      .site-nav > .container > .site-navigation > .logo>img{
+        width: 200px;
+      }
